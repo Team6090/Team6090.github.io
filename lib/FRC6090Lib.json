@@ -1,7 +1,7 @@
 {
     "fileName": "FRC6090Lib.json",
     "name": "FRC6090Lib",
-    "version": "0.0.1",
+    "version": "2024.1.0",
     "frcYear": "2024",
     "uuid": "e43b8945-a88d-4790-ba12-8dfab2155aa5",
     "mavenUrls": [
@@ -12,7 +12,7 @@
         {
             "groupId": "org.frc6090.lib",
             "artifactId": "FRC6090Lib-java",
-            "version": "0.0.0"
+            "version": "2024.1.0"
         }
     ],
     "jniDependencies": [],
