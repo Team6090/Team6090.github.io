@@ -7,7 +7,7 @@
     "mavenUrls": [
         "https://Team6090.github.io/lib/repo"
     ],
-    "jsonUrl": "https://Team6090.github.io/lib/repo/FRC6090Lib.json",
+    "jsonUrl": "https://Team6090.github.io/lib/FRC6090Lib.json",
     "javaDependencies": [
         {
             "groupId": "org.frc6090.lib",
