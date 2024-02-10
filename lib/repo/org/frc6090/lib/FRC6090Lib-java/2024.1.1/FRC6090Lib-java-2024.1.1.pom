@@ -4,5 +4,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.frc6090.lib</groupId>
   <artifactId>FRC6090Lib-java</artifactId>
-  <version>0.0.0</version>
+  <version>2024.1.1</version>
 </project>
