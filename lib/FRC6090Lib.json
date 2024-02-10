@@ -14,5 +14,7 @@
             "artifactId": "FRC6090Lib-java",
             "version": "0.0.0"
         }
-    ]
+    ],
+    "jniDependencies": [],
+    "cppDependencies": []
 }
