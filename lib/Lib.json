@@ -1,0 +1,18 @@
+{
+    "fileName": "ExampleVendorJson.json",
+    "name": "ExampleVendorDep",
+    "version": "0.0.1",
+    "frcYear": "2024",
+    "uuid": "e43b8945-a88d-4790-ba12-8dfab2155aa5",
+    "mavenUrls": [
+        "https://alexfirstrobotics.github.io/lib/repo"
+    ],
+    "jsonUrl": "https://alexfirstrobotics.github.io/lib/repo/Lib.json",
+    "javaDependencies": [
+        {
+            "groupId": "org.frc6090.lib",
+            "artifactId": "FRC6090Lib-java",
+            "version": "0.0.0"
+        }
+    ]
+}
